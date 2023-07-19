@@ -11,6 +11,7 @@ public class SpringSecurityApplication implements CommandLineRunner{
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityApplication.class, args);
+// hello
 	}
 
 	@Autowired
